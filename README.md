@@ -70,6 +70,8 @@ NEUROGLOVE uses a combination of **AI algorithms**, **sensors**, **wireless comm
 5. Set threshold values in code for pulse and temperature.
 
 ---
+<img width="1322" height="720" alt="Screenshot 2025-03-30 151156" src="https://github.com/user-attachments/assets/d0e1ecae-8eef-4064-af14-c7182a786d96" />
+
 
 ![PROJECT PHOTO](https://github.com/user-attachments/assets/688cce14-b41d-41c8-96b5-67a78251b0d6)
 
