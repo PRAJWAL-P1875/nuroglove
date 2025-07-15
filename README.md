@@ -71,6 +71,8 @@ NEUROGLOVE uses a combination of **AI algorithms**, **sensors**, **wireless comm
 
 ---
 
+![PROJECT PHOTO](https://github.com/user-attachments/assets/688cce14-b41d-41c8-96b5-67a78251b0d6)
+
 ## 📁 Folder Structure
 
 ```bash
